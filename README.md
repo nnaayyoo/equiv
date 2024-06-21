@@ -34,9 +34,9 @@ python equivalence.py
 4 4  
 4 3  
 
-**'''
-반사: True  
-대칭: True  
-추이: False  
-동치관계: False  
-주어진 A와 R은 동치관계가 아닙니다'''**
+
+**반사: True**  
+**대칭: True**  
+**추이: False**  
+**동치관계: False**  
+**주어진 A와 R은 동치관계가 아닙니다**
