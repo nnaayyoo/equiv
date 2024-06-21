@@ -13,7 +13,7 @@
 
 터미널에서 다음 명령어를 사용하여 스크립트를 실행합니다:
 
-python equiv_relation_check_강나영.py
+python equivalence.py
 
 ## 입력 예시
 **집합 A를 입력하세요. 각 원소를 한 줄에 하나 씩 입력하세요.
